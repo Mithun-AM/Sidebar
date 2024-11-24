@@ -7,7 +7,7 @@ This project is a stylish sidebar menu built with HTML, CSS, and Font Awesome ic
 ## Deployment
 
 Here is the link to the deployed version of the game:  
-[Simon Says Game - GitHub Pages](https://mithun-am.github.io/Sidebar/)
+[Sidebar - GitHub Pages](https://mithun-am.github.io/Sidebar/)
 
 ## Features
 
