@@ -11,6 +11,11 @@ This project is a stylish sidebar menu built with HTML, CSS, and Font Awesome ic
 - **Social Media Links:** Includes clickable icons for Facebook, Twitter, Instagram, and YouTube.
 - **Modern Design:** Designed with modern web aesthetics in mind, featuring a translucent background and clean layout.
 
+## Deployment
+
+Here is the link to the deployed version of the game:  
+[Simon Says Game - GitHub Pages](https://mithun-am.github.io/Sidebar/)
+
 ## How to Use
 
 1. **Open Sidebar:** Click the hamburger menu icon (three horizontal bars) in the top left corner to open the sidebar.
