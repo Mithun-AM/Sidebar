@@ -4,17 +4,17 @@
 
 This project is a stylish sidebar menu built with HTML, CSS, and Font Awesome icons. The sidebar provides navigation links such as Gallery, Shortcuts, Exhibits, Events, Store, Contact, and Feedback. The menu is toggleable, allowing the user to open and close it with a button. When opened, the sidebar overlays the screen and offers smooth transitions, making for an elegant user experience.
 
+## Deployment
+
+Here is the link to the deployed version of the game:  
+[Simon Says Game - GitHub Pages](https://mithun-am.github.io/Sidebar/)
+
 ## Features
 
 - **Responsive Sidebar:** A sidebar that can be opened or closed by clicking the menu icon.
 - **Smooth Animations:** Transitions for opening and closing the sidebar, as well as icon resizing.
 - **Social Media Links:** Includes clickable icons for Facebook, Twitter, Instagram, and YouTube.
 - **Modern Design:** Designed with modern web aesthetics in mind, featuring a translucent background and clean layout.
-
-## Deployment
-
-Here is the link to the deployed version of the game:  
-[Simon Says Game - GitHub Pages](https://mithun-am.github.io/Sidebar/)
 
 ## How to Use
 
