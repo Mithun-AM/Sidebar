@@ -44,7 +44,7 @@
     color: grey;
     font-size: 25px;
     position: absolute;
-    left: 275px;
+    left: 270px;
     line-height: 60px;
     opacity: 0;
     cursor: pointer;
@@ -70,7 +70,7 @@
 .sidebar_menu .social_media{
     position: absolute;
     left: 25%;
-    bottom: 50px;
+    bottom: 15px;
 }
 .sidebar_menu .social_media i{
     color: white;
